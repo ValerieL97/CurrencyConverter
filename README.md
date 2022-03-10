@@ -4,7 +4,7 @@ A Web Currency Converter
 Application is built using the following technologies:
 
 - Backend : Java 11, Spring Boot, Spring Rest, Spring Redis
-- Frontend: JavaScript, JQuery
+- Frontend: HTML, CSS, JavaScript, JQuery
 - Build: Maven
 - Testing: Junit 5
 
